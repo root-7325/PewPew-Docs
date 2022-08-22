@@ -17,4 +17,14 @@ Running on port 80
    - Game host: `pewpew-2.appspot.com`
  - GetReplay:
    - ID - replay ID
+# Replay Structure:
+ - Path to `.lua` map
+ - Uknown integer
+ - Uknown integer
+ - Uknown integer
+ - Uknown integer
+ - Probably replay data
 
+
+## Server emulator:
+ `Soon`
