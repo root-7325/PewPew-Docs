@@ -7,7 +7,7 @@ Running on port 80
    - nickName - player nick
    - score - yes
    - time - replay time
-   - hwID - device ID?
+   - hwID - replay ID?
    - hwClass - device OS
    - hwModel - device model
    - mapName - path to `.lua` map
@@ -15,4 +15,6 @@ Running on port 80
    - hash - uknown
  - GetScores:
    - Game host: `pewpew-2.appspot.com`
+ - GetReplay:
+   - ID - replay ID
 
