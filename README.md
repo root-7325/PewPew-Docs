@@ -1,6 +1,7 @@
 # PewPew (and probably PewPew 2) Docs!
 
-Running on port 80
+Game host: `pewpew-2.appspot.com`
+Port: 80
 
 # Some structures:
  - UploadScore:
@@ -14,7 +15,7 @@ Running on port 80
    - version - game version
    - hash - uknown
  - GetScores:
-   - Game host: `pewpew-2.appspot.com`
+   - Return leaderboard file
  - GetReplay:
    - ID - replay ID
 # Replay Structure:
@@ -24,7 +25,15 @@ Running on port 80
  - Uknown integer
  - Replay time (should be synced with replay data)
  - Probably replay data
+# WebScore Structure:
+ - File type
+ - Type version
+ - Path to `.lua` map
+ - Player nick
+ - Score
+ - ReplayID
+ - Uknown
 
 
 ## Server emulator:
- `Soon`
+ [Here.](https://github.com/root-7325/PewPew-Server-Emulator)
