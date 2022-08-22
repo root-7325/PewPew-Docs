@@ -34,6 +34,8 @@ Port: 80
  - ReplayID
  - Uknown
 
+## Kind of disclaimer:
+ - I'm not related to original PewPew development team. If you are author of PewPew and you don't want it to be public then please, create Issue and I'll delete this.
 
 ## Server emulator:
  [Here.](https://github.com/root-7325/PewPew-Server-Emulator)
