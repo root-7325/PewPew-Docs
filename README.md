@@ -20,9 +20,9 @@ Running on port 80
 # Replay Structure:
  - Path to `.lua` map
  - Uknown integer
+ - Player ship (can use ships from PP2)
  - Uknown integer
- - Uknown integer
- - Uknown integer
+ - Replay time (should be synced with replay data)
  - Probably replay data
 
 
