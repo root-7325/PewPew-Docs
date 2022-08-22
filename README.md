@@ -7,7 +7,7 @@ Running on port 80
    - nickName - player nick
    - score - yes
    - time - replay time
-   - hwID - replay ID?
+   - hwID - replay/device ID?
    - hwClass - device OS
    - hwModel - device model
    - mapName - path to `.lua` map
