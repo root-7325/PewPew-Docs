@@ -1,6 +1,9 @@
 # PewPew (and probably PewPew 2) Docs!
 
-Game host: `pewpew-2.appspot.com`
+PewPew host: `pewpew-2.appspot.com`
+
+PewPew2 host: `pewpew-live.appspot.com`
+
 Port: 80
 
 # Some structures:
