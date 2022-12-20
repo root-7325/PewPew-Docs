@@ -42,3 +42,6 @@ Port: 80
 
 ## Server emulator:
  [Here.](https://github.com/root-7325/PewPew-Server-Emulator)
+ 
+## Client side:
+ - Added shitty frida script. (how to use it -> find out by yourself)
